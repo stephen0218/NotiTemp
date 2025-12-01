@@ -1,0 +1,2 @@
+source C:/esp/esp-rainmaker/examples/led_light/build/bootloader/gdbinit/symbols
+source C:/esp/esp-rainmaker/examples/led_light/build/bootloader/gdbinit/connect

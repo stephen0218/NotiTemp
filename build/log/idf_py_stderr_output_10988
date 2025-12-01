@@ -1,0 +1,5 @@
+info: INFO: Symbol WS2812_LED_GPIO defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\esp\esp-rainmaker\examples\led_light\main\Kconfig.projbuild:73
+    D:\Espressif\esp-rainmaker\examples\common\ws2812_led\Kconfig:10
+ESP RainMaker Project commit: v1.7.9-6-gbf99e8d
+ESP Insights Project commit: v1.7.9-6-gbf99e8d-dirty
