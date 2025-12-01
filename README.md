@@ -7,15 +7,15 @@
 - ✅ Push notifications for critical alerts
 - ✅ Voice control (Alexa/Google Assistant)
 - ✅ OTA firmware updates
-- ✅ Espressif Insights dashboard
+
 
 ## Hardware
-- ESP32-C3-MINI-1 Development Board
+- ESP32-C3 seeed studio Development Board
 - DHT11 Sensor
-- 5V DC Cooling Fan (via Relay)
+- 5V DC Cooling Fan 
 
 ## Software
-- Platform: ESP-IDF / Arduino Framework
+- Platform: ESP-IDF Framework
 - Cloud: ESP RainMaker
 
 ## Project Report
